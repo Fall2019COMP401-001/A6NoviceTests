@@ -1,2 +1,4 @@
 # A6NoviceTests
-A6 Novice Tests
+
+These are the A6 Novice Tests used by the autograder.
+
